@@ -36,7 +36,7 @@ public class DrawingImage {
         graphics.fillRect(0, 0, width, height);
 
         // Draw Read DataSet
-        graphics.setColor(PURPLE);
+        graphics.setColor(Color.BLUE);
         for (int j = 0; j < strings.length; j++) {
 
             int x=Integer.parseInt(strings[j][1]);
