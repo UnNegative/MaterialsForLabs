@@ -4,7 +4,7 @@ import java.math.*;
 public class Main {
     public static void main(String[] args){
         int width =960;
-        int height =540;
+        int height =960;
         int angle = 30;
         int xCenter = 480;
         int yCenter = 480;
